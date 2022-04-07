@@ -12,7 +12,7 @@
     "test": "babel-node spec/run.js"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^3.2.2",
     "axios": "^0.16.2",
     "bcrypt": "^1.0.3",
     "body-parser": "^1.17.2",
